@@ -1,17 +1,28 @@
+# Next 14 Boilerplate
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+This GitHub repository serves as a starter template for building web applications using the Next.js framework. The project is configured with TypeScript, Tailwind CSS, ESLint, Prettier, Husky, Commitlint, Commitizen, Lint Staged, and uses PNPM as the package manager.
+
+## Features
+
+- **Next.js:** A React framework for building server-rendered React applications.
+- **TypeScript:** A superset of JavaScript that adds static types.
+- **Tailwind CSS:** A utility-first CSS framework for building modern designs.
+- **ESLint:** A pluggable linting utility for JavaScript and TypeScript.
+- **Prettier:** An opinionated code formatter to enforce a consistent code style.
+- **Husky:** Enables Git hooks to run commands before commits are created.
+- **Commitlint:** Checks if your commit messages meet the conventional commit format.
+- **Commitizen:** Helps you write consistent commit messages.
+- **Lint Staged:** Run linters on pre-committed files in Git.
+- **PNPM:** A fast, disk space-efficient package manager.
 
 ## Getting Started
 
 First, run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
 pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
