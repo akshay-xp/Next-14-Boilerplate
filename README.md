@@ -17,6 +17,18 @@ This GitHub repository serves as a starter template for building web application
 - **Lint Staged:** Run linters on pre-committed files in Git.
 - **PNPM:** A fast, disk space-efficient package manager.
 
+## Using Shadcn UI with this Boilerplate
+
+If you want to use this boilerplate with the "Shadcn UI" component library, you can find an example branch at [feature/with-shadcn-ui](https://github.com/akshay-xp/Next-14-Boilerplate/tree/feature/with-shadcn-ui).
+
+To integrate "Shadcn UI" into this Next.js 14 boilerplate:
+
+1. **Switch to the Shadcn UI branch:**
+
+   ```bash
+   git checkout feature/with-shadcn-ui
+   ```
+
 ## Getting Started
 
 First, run the development server:
